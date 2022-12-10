@@ -4,7 +4,7 @@ This repository contains the code used to perform the analyses described in the 
 
 Gourevitch, J., Kousky, C., Liao, Y., Nolte, C., Pollack, A., Porter, J., and Weill, J. (2023) Unpriced climate risk and potential consequences of overvaluation in US housing markets. Nature Climate Change.
 
-This repository is associated with the following DOI: 
+This repository is associated with the following DOI: [![DOI](https://zenodo.org/badge/576473003.svg)](https://zenodo.org/badge/latestdoi/576473003)
 
 
 ## Abstract
